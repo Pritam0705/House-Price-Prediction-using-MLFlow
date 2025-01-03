@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/MLOps/MLFlow/House%20Price%20Prediction/mlruns/0/8d89bb242b584cd1ab256e8e2158c0dd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d89bb242b584cd1ab256e8e2158c0dd
+run_name: bedecked-cub-307
+run_uuid: 8d89bb242b584cd1ab256e8e2158c0dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735921715438
+status: 1
+tags: []
+user_id: prita
