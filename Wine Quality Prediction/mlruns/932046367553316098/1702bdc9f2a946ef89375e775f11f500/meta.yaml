@@ -1,0 +1,16 @@
+artifact_uri: file:///e:/MLOps/MLFlow/Wine%20Quality%20Prediction/mlruns/932046367553316098/1702bdc9f2a946ef89375e775f11f500/artifacts
+deleted_time: 1735945649188
+end_time: 1735944536331
+entry_point_name: ''
+experiment_id: '932046367553316098'
+lifecycle_stage: deleted
+run_id: 1702bdc9f2a946ef89375e775f11f500
+run_name: rare-elk-626
+run_uuid: 1702bdc9f2a946ef89375e775f11f500
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735944536086
+status: 4
+tags: []
+user_id: prita

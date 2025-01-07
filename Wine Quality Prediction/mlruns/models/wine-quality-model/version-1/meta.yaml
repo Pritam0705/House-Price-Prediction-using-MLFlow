@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1735946396065
+current_stage: None
+description: null
+last_updated_timestamp: 1735946396065
+name: wine-quality-model
+run_id: f39a8fef8d88498897d99d51d88e826d
+run_link: null
+source: file:///e:/MLOps/MLFlow/Wine%20Quality%20Prediction/mlruns/932046367553316098/f39a8fef8d88498897d99d51d88e826d/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///e:/MLOps/MLFlow/Wine%20Quality%20Prediction/mlruns/932046367553316098/f39a8fef8d88498897d99d51d88e826d/artifacts/model
+user_id: null
+version: 1

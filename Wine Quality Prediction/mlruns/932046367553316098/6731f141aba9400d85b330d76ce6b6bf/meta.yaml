@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/MLOps/MLFlow/Wine%20Quality%20Prediction/mlruns/932046367553316098/6731f141aba9400d85b330d76ce6b6bf/artifacts
+end_time: 1735944999557
+entry_point_name: ''
+experiment_id: '932046367553316098'
+lifecycle_stage: active
+run_id: 6731f141aba9400d85b330d76ce6b6bf
+run_name: skittish-pig-890
+run_uuid: 6731f141aba9400d85b330d76ce6b6bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735944968325
+status: 3
+tags: []
+user_id: prita
